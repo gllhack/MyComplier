@@ -1,0 +1,3 @@
+/home/kaven/MyComplier/build/CMakeFiles/rebuild_cache.dir
+/home/kaven/MyComplier/build/CMakeFiles/edit_cache.dir
+/home/kaven/MyComplier/build/CMakeFiles/MyComplier.dir
